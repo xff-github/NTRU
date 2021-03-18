@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f622f9e8-fda0-4d2e-b493-85d9382fff03" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Polynomial_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" column="19" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="7" column="25" selection-end-line="403" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru_ring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>I</find>
+      <find>fj9</find>
+      <find>capacity</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Helleo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/SHA1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/一维多项式乘积.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/一维多项式的除法.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Hello.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/NtruTest.java" />
+        <option value="$PROJECT_DIR$/target/NtruTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/pki.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/sdf.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test128.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Tesy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Testt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Teest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Twet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Testl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Greedy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/one.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Package.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/InputStreamReade.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/GreedyPackage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Max1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/algorithm_sort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Euclid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/辗转相除求最大公约数.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Prime.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/zhanzhuan.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/sushu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/APP_gongyueshu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Max.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/BackPack1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Knapsack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Lattice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/JuZhenChengFa.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Martix.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Polynomial.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Polynomial_test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru_ring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Attbrite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\IDEADevelop\LocalCangKu\LocalCangKu\.m2\repository" />
+        <option name="userSettingsFile" value="E:\IDEADevelop\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="NtruDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="658" />
+    <option name="y" value="3" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ntru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ntru" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NtruDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideaproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ntru" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Tesy.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ntru.demo.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaproject\src\main\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ntru.demo.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ntru">
+    <configuration name="Attbrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ntru.demo.test.Attbrite" />
+      <module name="ideaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ntru.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ntru.demo.test.Matrix" />
+      <module name="ideaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ntru.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ntru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ntru.demo.test.Ntru" />
+      <module name="ideaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ntru.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polynomial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ntru.demo.test.Polynomial" />
+      <module name="ideaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ntru.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polynomial_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ntru.demo.test.Polynomial_test" />
+      <module name="ideaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ntru.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="Application.Polynomial" />
+      <item itemvalue="Application.Polynomial_test" />
+      <item itemvalue="Application.Attbrite" />
+      <item itemvalue="Application.Ntru" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ntru" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.Attbrite" />
+        <item itemvalue="Application.Polynomial_test" />
+        <item itemvalue="Application.Polynomial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f622f9e8-fda0-4d2e-b493-85d9382fff03" name="Default Changelist" comment="" />
+      <created>1580887839813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580887839813</updated>
+      <workItem from="1580887842636" duration="2555000" />
+      <workItem from="1580890827931" duration="6546000" />
+      <workItem from="1580897796008" duration="2857000" />
+      <workItem from="1580908383777" duration="606000" />
+      <workItem from="1580910230454" duration="1524000" />
+      <workItem from="1580912364340" duration="2402000" />
+      <workItem from="1580966604316" duration="15401000" />
+      <workItem from="1581047297900" duration="13981000" />
+      <workItem from="1581062092713" duration="7942000" />
+      <workItem from="1581071823874" duration="12064000" />
+      <workItem from="1581137358800" duration="948000" />
+      <workItem from="1581140052974" duration="24467000" />
+      <workItem from="1581221992401" duration="15369000" />
+      <workItem from="1581253036654" duration="934000" />
+      <workItem from="1581310059191" duration="22445000" />
+      <workItem from="1581396786972" duration="8394000" />
+      <workItem from="1581406202216" duration="8661000" />
+      <workItem from="1581417651954" duration="17472000" />
+      <workItem from="1581482103784" duration="376000" />
+      <workItem from="1581482574101" duration="19757000" />
+      <workItem from="1581575778265" duration="919000" />
+      <workItem from="1581577161020" duration="1538000" />
+      <workItem from="1581580081684" duration="24978000" />
+      <workItem from="1581656423623" duration="8912000" />
+      <workItem from="1581665575221" duration="4802000" />
+      <workItem from="1581670795210" duration="4638000" />
+      <workItem from="1581681303274" duration="5990000" />
+      <workItem from="1581745456442" duration="12313000" />
+      <workItem from="1581773695142" duration="10010000" />
+      <workItem from="1581832085890" duration="8381000" />
+      <workItem from="1581846601575" duration="165000" />
+      <workItem from="1581919335228" duration="23854000" />
+      <workItem from="1582007642709" duration="11192000" />
+      <workItem from="1582020451160" duration="243000" />
+      <workItem from="1582021724189" duration="279000" />
+      <workItem from="1582027792490" duration="3295000" />
+      <workItem from="1582087233220" duration="5197000" />
+      <workItem from="1582096656494" duration="1934000" />
+      <workItem from="1582348497757" duration="34000" />
+      <workItem from="1582532540563" duration="21000" />
+      <workItem from="1582545349681" duration="3055000" />
+      <workItem from="1582888855597" duration="2636000" />
+      <workItem from="1583133667669" duration="5314000" />
+      <workItem from="1584348311865" duration="3907000" />
+      <workItem from="1584369424535" duration="4779000" />
+      <workItem from="1584435438503" duration="755000" />
+      <workItem from="1584460656641" duration="6898000" />
+      <workItem from="1584529645070" duration="979000" />
+      <workItem from="1584532616516" duration="4820000" />
+      <workItem from="1584540788758" duration="16889000" />
+      <workItem from="1584583250804" duration="5847000" />
+      <workItem from="1584609550863" duration="267000" />
+      <workItem from="1584624751994" duration="4532000" />
+      <workItem from="1584631381009" duration="1179000" />
+      <workItem from="1584633784981" duration="4866000" />
+      <workItem from="1584688838381" duration="4742000" />
+      <workItem from="1584697151254" duration="1877000" />
+      <workItem from="1584699071252" duration="40000" />
+      <workItem from="1584703435328" duration="7283000" />
+      <workItem from="1584781728302" duration="2548000" />
+      <workItem from="1584803330098" duration="9313000" />
+      <workItem from="1584865144146" duration="20275000" />
+      <workItem from="1584942202533" duration="8181000" />
+      <workItem from="1584957739093" duration="4678000" />
+      <workItem from="1585040771309" duration="6040000" />
+      <workItem from="1585125995471" duration="2705000" />
+      <workItem from="1585138814455" duration="6586000" />
+      <workItem from="1585209017792" duration="5433000" />
+      <workItem from="1585274603253" duration="1033000" />
+      <workItem from="1585297885745" duration="4188000" />
+      <workItem from="1585306811476" duration="3852000" />
+      <workItem from="1585467766945" duration="607000" />
+      <workItem from="1585472369759" duration="1954000" />
+      <workItem from="1585482317648" duration="9766000" />
+      <workItem from="1585494224598" duration="50000" />
+      <workItem from="1585555643846" duration="15000" />
+      <workItem from="1585705049672" duration="139000" />
+      <workItem from="1585708148416" duration="30000" />
+      <workItem from="1585711480132" duration="1116000" />
+      <workItem from="1585712763116" duration="49000" />
+      <workItem from="1585817579943" duration="115000" />
+      <workItem from="1585817791191" duration="77000" />
+      <workItem from="1585817892950" duration="51000" />
+      <workItem from="1585913320975" duration="614000" />
+      <workItem from="1585991603094" duration="618000" />
+      <workItem from="1586072756899" duration="1226000" />
+      <workItem from="1586749890119" duration="15000" />
+      <workItem from="1586944550937" duration="6499000" />
+      <workItem from="1586964135295" duration="22000" />
+      <workItem from="1587214409779" duration="620000" />
+      <workItem from="1587300507879" duration="2736000" />
+      <workItem from="1587352551227" duration="1398000" />
+      <workItem from="1587474864051" duration="1018000" />
+      <workItem from="1587477476548" duration="109000" />
+      <workItem from="1587869038487" duration="16000" />
+      <workItem from="1588778037050" duration="42000" />
+      <workItem from="1589001862208" duration="153000" />
+      <workItem from="1589091174685" duration="11779000" />
+      <workItem from="1589104007516" duration="6000" />
+      <workItem from="1589204396108" duration="768000" />
+      <workItem from="1589217961416" duration="10000" />
+      <workItem from="1589904970691" duration="1121000" />
+      <workItem from="1589968507535" duration="6121000" />
+      <workItem from="1590062147993" duration="1358000" />
+      <workItem from="1590765739998" duration="36000" />
+      <workItem from="1590813860465" duration="1658000" />
+      <workItem from="1591607439913" duration="638000" />
+      <workItem from="1593331368712" duration="8491000" />
+      <workItem from="1593412129233" duration="15235000" />
+      <workItem from="1593520361363" duration="5051000" />
+      <workItem from="1593583985102" duration="2923000" />
+      <workItem from="1594356040329" duration="28000" />
+      <workItem from="1594366334545" duration="28000" />
+      <workItem from="1595598671604" duration="2105000" />
+      <workItem from="1595747839772" duration="8000" />
+      <workItem from="1596013974277" duration="421000" />
+      <workItem from="1596014753597" duration="679000" />
+      <workItem from="1596856925809" duration="20000" />
+      <workItem from="1597482350506" duration="494000" />
+      <workItem from="1597483062638" duration="73000" />
+      <workItem from="1598947727839" duration="41000" />
+      <workItem from="1598967061852" duration="1685000" />
+      <workItem from="1599609622815" duration="1512000" />
+      <workItem from="1599614277346" duration="525000" />
+      <workItem from="1599639378677" duration="2068000" />
+      <workItem from="1599702045654" duration="47080000" />
+      <workItem from="1599909945169" duration="17000" />
+      <workItem from="1599984951668" duration="30414000" />
+      <workItem from="1600137061740" duration="5598000" />
+      <workItem from="1600220194425" duration="30000" />
+      <workItem from="1600759467937" duration="599000" />
+      <workItem from="1601124626298" duration="35000" />
+      <workItem from="1601294707453" duration="1142000" />
+      <workItem from="1601380368456" duration="48000" />
+      <workItem from="1601430487766" duration="995000" />
+      <workItem from="1602056795027" duration="31000" />
+      <workItem from="1602553224378" duration="395000" />
+      <workItem from="1602639535504" duration="15000" />
+      <workItem from="1606901649640" duration="1243000" />
+      <workItem from="1606961027522" duration="3434000" />
+      <workItem from="1606979819617" duration="3592000" />
+      <workItem from="1608012573284" duration="18000" />
+      <workItem from="1608620891811" duration="8000" />
+      <workItem from="1608980067829" duration="5000" />
+      <workItem from="1608980097055" duration="7000" />
+      <workItem from="1609749068703" duration="88000" />
+      <workItem from="1610365029537" duration="51000" />
+      <workItem from="1615436448190" duration="7000" />
+      <workItem from="1616058529660" duration="66000" />
+      <workItem from="1616071481301" duration="2056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="659804000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980695" visible="true" weight="0.29956895" />
+      <window_info id="Structure" order="1" sideWeight="0.5019305" side_tool="true" weight="0.33135775" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994612" weight="0.39863327" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997722" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32915717" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32915717" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053877" side_tool="true" weight="0.3428246" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4994612" weight="0.32801822" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297414" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.33459052" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.26239225" />
+      <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.17672414" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994612" visible="true" weight="0.28018224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997722" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32915717" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32915717" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053877" side_tool="true" weight="0.3428246" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4994612" weight="0.32801822" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297414" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.33459052" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/一维多项式的除法.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/target/NtruTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1803">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/NtruTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/SHA1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/pki.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/sdf.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Testt.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Tesy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Twet.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Testl.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Teest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Greedy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/one.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Package.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/InputStreamReade.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Max1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/GreedyPackage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Demo01.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/algorithm_sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Euclid.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/辗转相除求最大公约数.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/zhanzhuan.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Prime.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/sushu.java" />
+    <entry file="file://$PROJECT_DIR$/ideaproject.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="444" column="9" lean-forward="true" selection-start-line="444" selection-start-column="9" selection-end-line="444" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8326#8327#0" expanded="true" />
+            <element signature="e#8365#8366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28192">
+          <caret line="1325" column="23" lean-forward="true" selection-start-line="1325" selection-start-column="23" selection-end-line="1325" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Knapsack.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3424">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Element.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1986">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/APP_gongyueshu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Polynomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5248">
+          <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17728">
+          <caret line="559" column="15" selection-start-line="559" selection-start-column="15" selection-end-line="559" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Attbrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/BackPack1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1984">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Lattice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5419">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="19" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="25" selection-end-line="403" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Ntru_ring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ntru/demo/test/Polynomial_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ideaproject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
